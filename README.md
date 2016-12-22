@@ -1,4 +1,4 @@
-# AndroidOpenssl
+# Android Openssl
 Build Openssl for Android on macOS
 
 Step：
@@ -10,7 +10,7 @@ Step：
 3.run build-arm-openssl.sh build arm so file
 
 
-output
+# output
 
 libssl.so
 
